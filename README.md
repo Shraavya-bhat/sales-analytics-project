@@ -21,5 +21,10 @@ sales-analytics-project/
 - sql/
 - dashboard/
 
-## Status
-Python analysis completed. Power BI dashboard coming next.
+## Power BI Dashboard
+An interactive dashboard built using Power BI featuring:
+- Sales by Category
+- Sales by Region
+- Monthly Sales Trend
+- Year and Category slicers for dynamic filtering
+
